@@ -44,6 +44,11 @@ https://www.kaggle.com/datasets/dubradave/hospital-readmissions
 
 ---
 
+## Tableau Dashbaord
+[Link](https://public.tableau.com/views/hospital_readmissions/HospitalReadmissionsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
 ## 🛠 Tools & Technologies
 
 - **SQL (MySQL Workbench)** — data cleaning, aggregation, and preparation  
